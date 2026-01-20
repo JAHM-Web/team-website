@@ -1,0 +1,9 @@
+Bio for devs: 
+
+Hannah: Project Manager – coordinates the project and organizes team workflow.
+
+Miika: Developer – builds the website structure and adds content.
+
+Anika: Developer – styles the website with CSS and ensures it looks polished.
+
+Julia: Designer/UX – created the team logo and visual branding.
