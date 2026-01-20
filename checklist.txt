@@ -30,10 +30,6 @@ Review Pull Requests from developers and merge into main
 
 Deploy the website to GitHub Pages
 
-Go to repo → Settings → Pages → Source = main branch, folder = /root
-
-Copy generated URL
-
 Submit the following for class:
 
 - Public GitHub Organization page
