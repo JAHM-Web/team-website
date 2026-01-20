@@ -1,0 +1,59 @@
+* Developer Tasks (Miika and Anika) *
+
+
+Add team bios from team-bios.txt into index.html
+
+Build the HTML structure for:
+
+Hero section (logo + team name)
+
+Team members section
+
+Projects placeholder section
+
+Style the website with style.css
+
+Use consistent colors, fonts, and spacing
+
+Ensure the logo displays correctly
+
+Test the site in a browser for layout and spelling/grammar
+
+Commit changes to their branch and open a Pull Request to main
+
+
+
+* Project Manager (Hannah) Tasks *
+
+
+Review Pull Requests from developers and merge into main
+
+Deploy the website to GitHub Pages
+
+Go to repo → Settings → Pages → Source = main branch, folder = /root
+
+Copy generated URL
+
+Submit the following for class:
+
+- Public GitHub Organization page
+
+- Website repository link
+
+- PNG & SVG logo files
+
+
+
+* UX/Designer Tasks (Julia) *
+
+
+Review website design for visual consistency (colors, fonts, spacing)
+
+Suggest any improvements to layout or style (hero section, team section, projects section)
+
+Optional: Create additional graphics or icons if needed for the website
+
+Check the logo displays correctly in different sizes (hero, favicon, etc.)
+
+Provide feedback to devs on usability or readability
+
