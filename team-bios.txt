@@ -1,9 +1,14 @@
 Bio for devs: 
 
 Hannah: Project Manager – coordinates the project and organizes team workflow.
+                            Major: Information Science  Minor: Bioethics
+        
 
 Anika: Developer – builds the website structure and adds content.
+                        Major: Infomration Science 
 
 Miika: Developer – styles the website with CSS and ensures it looks polished.
+                        Major: Information Science 
 
 Julia: Designer/UX – created the team logo and visual branding.
+                    Major: Information Science  Minor: Business 
