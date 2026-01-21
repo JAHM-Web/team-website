@@ -1,0 +1,17 @@
+.center {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+.column {
+  float: left;
+  width: 25%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
