@@ -1,14 +1,13 @@
 Bio for devs: 
 
-Hannah: Project Manager – coordinates the project and organizes team workflow.
-            Major: Information Science  Minor: Bioethics
+Hannah: Project Manager – Organizes the team workflow, manages the GitHub organization and repository, and handles submissions and deployment.
+            
         
 
-Anika: Developer – builds the website structure and adds content.
-            Major: Infomration Science 
+Anika: Developer – Builds the HTML structure of the website and helps integrate content.
+            
 
-Miika: Developer – styles the website with CSS and ensures it looks polished.
-            Major: Information Science 
+Miika: Developer – Styles the website using CSS and ensures the site looks polished and cohesive.
+            
 
-Julia: Designer/UX – created the team logo and visual branding.
-            Major: Information Science  Minor: Business 
+Julia: Designer/UX – Designed the JAHM logo and guides the visual direction of the website.
