@@ -17,3 +17,26 @@
   clear: both;
 }
 
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #9a13f2;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #9a13f2;
+}
+
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  color: #000000;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  color: #000000;
+  font-size: 0.8rem;
+}
+
