@@ -1,3 +1,7 @@
+.notoppadding {
+  padding-top: 0px;
+}
+
 .center {
   display: block;
   margin: 0%;
@@ -17,6 +21,8 @@
   clear: both;
   column-gap: 5%;
   width: auto;
+  padding: 0px 10% 35px 10%;
+  display: block;
   
   
 }
@@ -36,7 +42,7 @@ h2 {
   color: #9a13f2;
   font-size: 2rem;
   margin: 0px;
-  padding: 35px;
+  padding: 70px 0px 35px 0px;
 }
 
 h3 {
@@ -93,8 +99,6 @@ p {
   padding: 35px 0px 35px 0px;
 }
 
-
-.row {
-  padding: 0px 10% 35px 10%;
-  display: block;
+.blankfornow {
+  padding: 60px 0px 60px 0px;
 }
