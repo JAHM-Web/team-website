@@ -30,6 +30,8 @@ h2 {
   font-family: Helvetica Neue;
   color: #9a13f2;
   font-size: 2rem;
+  margin: 0px;
+  padding: 35px;
 }
 
 h3 {
@@ -52,6 +54,7 @@ h5 {
   font-weight: normal;
   color: #9a13f2;
   font-size: 0.9rem;
+  margin: 0;
 
 }
 
