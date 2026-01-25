@@ -1,25 +1,27 @@
 .center {
   display: block;
-  margin: auto;
+  margin: 0%;
   width: 100%;
   text-align: center;
 }
 
 /* https://www.w3schools.com/howto/howto_css_four_columns.asp */
 
-.column {
-  float: left;
-  width: 25%;
-}
 
-.row:after {
-  display: block;
-  margin: auto;
+
+.row {
+  column-count: 4;
   content: "";
-  display: table;
+  display: table inline-flex;
+  flex-wrap: nowrap;
   clear: both;
+  column-gap: 5%;
+  width: auto;
+  
   
 }
+
+
 
 h1 {
   font-family: Helvetica Neue;
@@ -73,18 +75,25 @@ p {
 }
 
 .profileblock {
-  display: block;
+  display: table inline;
+  align-items: baseline;
+  width: 85%;
+  flex-wrap: nowrap;
+  padding: 15px;
+
   background-color: #f9e0f4;
-  max-width: 70%;
-  padding: 20px;
+  
   
 }
+
 
 .header {
   background-color: #fce6f1;
   padding: 35px 0px 35px 0px;
 }
 
-.pfppadding {
-  padding: 20px;
+
+.row {
+  margin: 0px 10% 0px 10%;
+  display: block;
 }
