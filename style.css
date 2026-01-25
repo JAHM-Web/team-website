@@ -16,7 +16,7 @@
 .row {
   column-count: 4;
   content: "";
-  display: table inline-flex;
+  display: table ;
   flex-wrap: nowrap;
   clear: both;
   column-gap: 5%;
@@ -101,4 +101,12 @@ p {
 
 .blankfornow {
   padding: 60px 0px 60px 0px;
+}
+
+img.pfp {
+  width: 80%;
+}
+
+body {
+  background-color: #FBF0FF;
 }
