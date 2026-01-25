@@ -13,9 +13,12 @@
 }
 
 .row:after {
+  display: block;
+  margin: auto;
   content: "";
   display: table;
   clear: both;
+  
 }
 
 h1 {
@@ -23,7 +26,7 @@ h1 {
   color: #9a13f2;
   font-size: 3rem;
   margin: auto;
-  padding: auto 0px auto 0px;
+  padding: 10px 0px 10px 0px;
 }
 
 h2 {
@@ -47,6 +50,8 @@ h4 {
   font-family: Helvetica Neue;
   color: #000000;
   font-size: 1.25rem;
+  margin: 0px;
+  padding: 10px 0px 10px 0px;
 }
 
 h5 {
@@ -54,7 +59,8 @@ h5 {
   font-weight: normal;
   color: #9a13f2;
   font-size: 0.9rem;
-  margin: 0;
+  margin: 0px;
+  padding: 10px 0px 10px 0px;
 
 }
 
@@ -63,13 +69,22 @@ p {
   font-weight: normal;
   color: #3d3d3d;
   font-size: 0.9rem;
+  margin: 0px;
 }
 
-
+.profileblock {
+  display: block;
+  background-color: #f9e0f4;
+  max-width: 70%;
+  padding: 20px;
+  
+}
 
 .header {
   background-color: #fce6f1;
   padding: 35px 0px 35px 0px;
 }
 
-
+.pfppadding {
+  padding: 20px;
+}
