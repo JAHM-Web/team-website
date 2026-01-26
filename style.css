@@ -1,3 +1,7 @@
+.purpletext {
+  color: #9a13f2;
+}
+
 .notoppadding {
   padding-top: 0px;
 }
@@ -39,22 +43,22 @@ h1 {
 
 h2 {
   font-family: Helvetica Neue;
-  color: #9a13f2;
+  color: #3d3d3d;
   font-size: 2rem;
   margin: 0px;
   padding: 70px 0px 35px 0px;
 }
 
-h3 {
+h4 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: normal;
-  color: #3d3d3d;
+  color: #9a13f2;
   font-size: 0.9rem;
   margin: 0px;
   padding: 10px 0px 10px 0px;
 }
 
-h4 {
+h3 {
   font-family: Helvetica Neue;
   color: #000000;
   font-size: 1.25rem;
