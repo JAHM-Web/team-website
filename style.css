@@ -1,79 +1,73 @@
-.purpletext {
-  color: #9a13f2;
-}
-
 .notoppadding {
   padding-top: 0px;
 }
 
 .center {
   display: block;
-  margin: 0%;
+  margin: 0 auto;
   width: 100%;
   text-align: center;
 }
 
-/* https://www.w3schools.com/howto/howto_css_four_columns.asp */
-
-
-
 .row {
-  column-count: 4;
-  content: "";
-  display: table ;
-  flex-wrap: nowrap;
-  clear: both;
-  column-gap: 5%;
-  width: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
   padding: 0px 10% 35px 10%;
-  display: block;
-  
-  
 }
 
-
-
 h1 {
-  font-family: Helvetica Neue;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #9a13f2;
   font-size: 3rem;
   margin: auto;
-  padding: 10px 0px 10px 0px;
+  padding: 10px 0;
+  font-weight: bold;
 }
 
 h2 {
-  font-family: Helvetica Neue;
-  color: #3d3d3d;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #9a13f2;
   font-size: 2rem;
   margin: 0px;
-  padding: 70px 0px 35px 0px;
+  padding: 70px 0 35px 0;
 }
 
-h4 {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-weight: normal;
-  color: #9a13f2;
-  font-size: 0.9rem;
-  margin: 0px;
-  padding: 10px 0px 10px 0px;
+h2.tagline {
+  color: #000000;
+  font-size: 1.1rem;
+  font-weight: 400; 
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+  padding: 10px 0;                     
+  line-height: 1.4;
 }
 
 h3 {
-  font-family: Helvetica Neue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  color: #9a13f2; 
+  font-size: 1.2rem;
+  margin: 0px;
+  padding: 10px 0;
+}
+
+h4 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #000000;
   font-size: 1.25rem;
   margin: 0px;
-  padding: 10px 0px 10px 0px;
+  padding: 10px 0;
 }
 
 h5 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-weight: normal;
-  color: #9a13f2;
-  font-size: 0.9rem;
+  font-weight: 500; 
+  color: #9a13f2; 
+  font-size: 0.75rem; 
   margin: 0px;
-  padding: 10px 0px 10px 0px;
-
+  padding: 1px 0; 
+  line-height: 1.1;
 }
 
 p {
@@ -83,32 +77,28 @@ p {
   font-size: 0.9rem;
   margin: 0px;
 }
- 
+
 .profileblock { 
-  display: table inline;
-  align-items: baseline;
-  width: 75%;
-  flex-wrap: nowrap;
-  padding: 15%;
- 
+  flex: 1 1 200px;
+  max-width: 250px;
+  padding: 15px;
   background-color: #f9e0f4;
   border-radius: 13px;
-  
-   
+  text-align: center;
 }
-
 
 .header {
   background-color: #fce6f1;
-  padding: 35px 0px 35px 0px;
+  padding: 35px 0;
 }
 
 .blankfornow {
-  padding: 60px 0px 60px 0px;
+  padding: 60px 0;
 }
 
 img.pfp {
-  width: 80%;
+  width: 100%;
+  border-radius: 50%;
 }
 
 body {
